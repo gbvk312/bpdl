@@ -1,0 +1,88 @@
+{D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/maxFinder.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/maxFinder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module maxFinder
+
+Top level modules:
+	maxFinder
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/axi_lite_wrapper.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/axi_lite_wrapper.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module axi_lite_wrapper
+
+Top level modules:
+	axi_lite_wrapper
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Weight_Memory.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Weight_Memory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Weight_Memory
+
+Top level modules:
+	Weight_Memory
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/top_sim.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/top_sim.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_sim
+
+Top level modules:
+	top_sim
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/include.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/include.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_1.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Layer_1
+
+Top level modules:
+	Layer_1
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_2.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Layer_2
+
+Top level modules:
+	Layer_2
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/neuron.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/neuron.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module neuron
+
+Top level modules:
+	neuron
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_3.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Layer_3
+
+Top level modules:
+	Layer_3
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/relu.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/relu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ReLU
+
+Top level modules:
+	ReLU
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Sig_ROM.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Sig_ROM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Sig_ROM
+
+Top level modules:
+	Sig_ROM
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_4.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Layer_4
+
+Top level modules:
+	Layer_4
+
+} {} {}} {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/zynet.v} {1 {vlog -work work -stats=none {D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/zynet.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module zyNet
+
+Top level modules:
+	zyNet
+
+} {} {}}

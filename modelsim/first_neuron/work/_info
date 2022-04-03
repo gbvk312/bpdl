@@ -1,0 +1,293 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/M.Tech/2nd year/project/modlesim/neuron_b
+vaxi_lite_wrapper
+Z0 !s110 1649001835
+!i10b 1
+!s100 15XiVPKoHb4k_5=2c]gTG3
+ISjfo5WP[OfMJ`f=i39mPY0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron
+Z3 w1644245036
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/axi_lite_wrapper.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/axi_lite_wrapper.v
+L0 4
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1649001835.000000
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/axi_lite_wrapper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/axi_lite_wrapper.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vDNN
+!s110 1649000009
+!i10b 1
+!s100 5M]zWj5J>@<>e8B;SVZ:60
+IIbnPHgFeIb_l_0haI8bjC2
+R1
+R2
+w1648999777
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/DNN.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/DNN.v
+Z8 L0 23
+R4
+r1
+!s85 0
+31
+!s108 1649000009.000000
+!s107 include.v|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/DNN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/DNN.v|
+!i113 1
+R6
+R7
+n@d@n@n
+vLayer_1
+Z9 !s110 1649001834
+!i10b 1
+!s100 c=JKMn`X:N7?Z?l79Z3>H2
+I11NQLN^>;JzB<JKSJ@RPM2
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_1.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_1.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z10 !s108 1649001834.000000
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_1.v|
+!i113 1
+R6
+R7
+n@layer_1
+vLayer_2
+R0
+!i10b 1
+!s100 DHIfQ:Hen;m5IM@<:U<BH2
+IU=FL=P>^^`aIaZ[cf[7Q?1
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_2.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_2.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_2.v|
+!i113 1
+R6
+R7
+n@layer_2
+vLayer_3
+R0
+!i10b 1
+!s100 C;zKVOJf]DoJ?>_4=Z0gh3
+ImlKJ<o0BebYClm^Il;?G43
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_3.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_3.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_3.v|
+!i113 1
+R6
+R7
+n@layer_3
+vLayer_4
+R0
+!i10b 1
+!s100 i`?19CEib@ljVOP0dR<Xd3
+ILKo2m`KVVSPRE][@1JNRU3
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_4.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_4.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Layer_4.v|
+!i113 1
+R6
+R7
+n@layer_4
+vmaxFinder
+R0
+!i10b 1
+!s100 ATmh[zoU>IK[OaP3eEg1N3
+I_omD>;WT?RMH>=OaA_ebL1
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/maxFinder.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/maxFinder.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/maxFinder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/maxFinder.v|
+!i113 1
+R6
+R7
+nmax@finder
+vneuron
+R9
+!i10b 1
+!s100 Ijd@Z:@mBPm6Yk0BQL40l3
+IHG`Mo`^B@HBk]4iC[cb9>1
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/neuron.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/neuron.v
+L0 24
+R4
+r1
+!s85 0
+31
+R10
+!s107 include.v|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/neuron.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/neuron.v|
+!i113 1
+R6
+R7
+vReLU
+R9
+!i10b 1
+!s100 F]dhTNWfMleXj6mkVFNZ>2
+IGJDFKQhCcL?SWYX^`l`Z?2
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/relu.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/relu.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/relu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/relu.v|
+!i113 1
+R6
+R7
+n@re@l@u
+vSig_ROM
+R9
+!i10b 1
+!s100 S[LU?]>kl@0DMPTiJ0kh53
+ISHc[Sa;fG3E`G8hSUXHUN0
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Sig_ROM.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Sig_ROM.v
+R8
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Sig_ROM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Sig_ROM.v|
+!i113 1
+R6
+R7
+n@sig_@r@o@m
+vtop_sim
+R0
+!i10b 1
+!s100 f43P9oo@4U]H:NJRdFebU3
+IJ1JQDgL2CUBng7QoJ54`A3
+R1
+R2
+w1649001701
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/top_sim.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/top_sim.v
+L0 26
+R4
+r1
+!s85 0
+31
+R5
+!s107 include.v|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/top_sim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/top_sim.v|
+!i113 1
+R6
+R7
+vWeight_Memory
+R9
+!i10b 1
+!s100 Q:5hDBW9>1Ic5nM2SX3Li2
+IYUR<8dF?fE4[JBNM>C02i2
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Weight_Memory.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Weight_Memory.v
+R8
+R4
+r1
+!s85 0
+31
+R10
+!s107 include.v|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Weight_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/Weight_Memory.v|
+!i113 1
+R6
+R7
+n@weight_@memory
+vzyNet
+R0
+!i10b 1
+!s100 8Q601EkEUheON[8Hfk]BE1
+Ic44eJ]XRQMhV_h<XLmATU2
+R1
+R2
+R3
+8D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/zynet.v
+FD:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/zynet.v
+R8
+R4
+r1
+!s85 0
+31
+R5
+!s107 include.v|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/zynet.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/M.Tech/2nd year/project/github/bpdl/modelsim/first_neuron/zynet.v|
+!i113 1
+R6
+R7
+nzy@net
